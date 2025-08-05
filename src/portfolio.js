@@ -32,12 +32,11 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/musamaakhtar-tech",
-  linkedin: "https://www.linkedin.com/in/m-usama537",
+  linkedin: "",
   gmail: "musamaakhtar63@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
   facebook: "https://www.facebook.com/musamaakhtar.tech",
-  medium: "https://medium.com/@UACodeHorizon",
-  stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
+  medium: "",
+  stackoverflow: "",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -334,8 +333,8 @@ const contactInfo = {
   number: "+92 346 0305560",
   email_address: "musamaakhtar63@gmail.com", 
   github: "https://github.com/musamaakhtar-tech", // Replace with your actual GitHub username
-  linkedin: "https://www.linkedin.com/in/m-usama537",
-  gmail: "usamaakhtar537@gmail.com",
+  linkedin: "",
+  gmail: "",
   facebook: "", // Optional: Add your Facebook profile link
   twitter: "",  // Optional: Add if you use Twitter professionally
   instagram: "", // Optional: Add your Instagram if it's relevant

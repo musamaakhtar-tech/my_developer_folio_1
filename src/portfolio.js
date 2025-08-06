@@ -290,9 +290,9 @@ const contactInfo = {
 };
 
 const socialMediaLinks = {
-  github: "https://github.com/yourusername", // Replace with your actual GitHub username
-  linkedin: "https://www.linkedin.com/in/m-usama537",
-  gmail: "usamaakhtar537@gmail.com",
+  github: "#", // Replace with your actual GitHub username
+  linkedin: "#",
+  gmail: "#",
   facebook: "", // Optional: Add your Facebook profile link
   twitter: "",  // Optional: Add if you use Twitter professionally
   instagram: "", // Optional: Add your Instagram if it's relevant

@@ -94,10 +94,6 @@ const skillsSection = {
       fontAwesomeClassname: "fab fa-java"
     },
     {
-      skillName: "Flutter",
-      fontAwesomeClassname: "fa-brands fa-flutter"
-    },
-    {
       skillName: "Figma",
       fontAwesomeClassname: "fab fa-figma"
     },
@@ -124,10 +120,6 @@ const skillsSection = {
     {
       skillName: "GitLab",
       fontAwesomeClassname: "fab fa-gitlab"
-    },
-    {
-      skillName: "Microsoft Office",
-      fontAwesomeClassname: "fa-brands fa-microsoft"
     },
     {
       skillName: "Windows",

@@ -38,10 +38,8 @@ const socialMediaLinks = {
   medium: "https://medium.com/@UACodeHorizon/", 
   twitter: "https://x.com/tech_mua/", 
   instagram: "https://www.instagram.com/mua.tech/", 
-  leetcode: "",  // Optional: Add if you use LeetCode
-  stackoverflow: "https://stackoverflow.com/users/31249735/m-usama-akhtar", // Optional: Add if you answer questions or showcase work here
-  devto: "",   // Optional: Developer community profile
-  display: true // Set false to hide this section Instagram, Twitter and Kaggle are also supported in the links! To customize icons and social links, tweak src/components/SocialMedia
+  stackoverflow: "https://stackoverflow.com/users/31249735/m-usama-akhtar/", 
+  display: true // Set false to hide this section Kaggle are also supported in the links! To customize icons and social links, tweak src/components/SocialMedia
 };
 
 // Skills Section
@@ -88,16 +86,48 @@ const skillsSection = {
       fontAwesomeClassname: "fas fa-database"
     },
     {
+      skillName: "Angular",
+      fontAwesomeClassname: "fab fa-angular"
+    },
+    {
+      skillName: "Java",
+      fontAwesomeClassname: "fab fa-java"
+    },
+    {
       skillName: "AWS",
       fontAwesomeClassname: "fab fa-aws"
+    },
+    {
+      skillName: "WordPress",
+      fontAwesomeClassname: "fab fa-wordpress"
     },
     {
       skillName: "GitHub",
       fontAwesomeClassname: "fab fa-github"
     },
     {
+      skillName: "Git",
+      fontAwesomeClassname: "fab fa-git-alt"
+    },
+    {
+      skillName: "GitLab",
+      fontAwesomeClassname: "fab fa-gitlab"
+    },
+    {
       skillName: "Microsoft Office",
       fontAwesomeClassname: "fa-brands fa-microsoft"
+    },
+    {
+      skillName: "Windows",
+      fontAwesomeClassname: "fab fa-windows"
+    },
+    {
+      skillName: "Ubuntu",
+      fontAwesomeClassname: "fab fa-ubuntu"
+    },
+    {
+      skillName: "Android",
+      fontAwesomeClassname: "fab fa-android"
     }
   ],
   display: true
@@ -162,18 +192,18 @@ const workExperiences = {
     {
       role: "Frontend Development Intern",
       company: "CodeAlpha",
-      companylogo: require("./assets/images/CodeAlpha-Logo.jfif"), // Replace with actual logo in your assets folder
+      companylogo: require("./assets/images/CodeAlpha-Logo.jfif"), 
       date: "August 2024 – September 2024",
       desc: "Contributed to frontend development projects, enhancing user interfaces and improving component functionality.",
       descBullets: [
-        "Worked with HTML, CSS, JavaScript to build and refine UI components",
-        "Improved responsiveness and user interaction in web applications"
+        "Worked with HTML, CSS, JavaScript to build and refine UI components.",
+        "Improved responsiveness and user interaction in web applications."
       ]
     },
     {
       role: "Quality Assurance Tester Intern",
       company: "Regional Plan 9",
-      companylogo: require("./assets/images/RP9-Logo.jpg"), // Replace with actual logo in your assets folder
+      companylogo: require("./assets/images/RP9-Logo.jpg"), 
       date: "August 2023 – September 2023",
       desc: "Conducting comprehensive testing of software applications to ensure quality and functionality.",
       descBullets: [
@@ -423,10 +453,8 @@ const contactInfo = {
   facebook: "https://www.facebook.com/musamaakhtar.tech/", 
   twitter: "https://x.com/tech_mua/",  
   instagram: "https://www.instagram.com/mua.tech/", 
-  leetcode: "",  // Optional: Add if you use LeetCode
-  stackoverflow: "https://stackoverflow.com/users/31249735/m-usama-akhtar", // Optional: Add if you answer questions or showcase work here
-  medium: "https://medium.com/@musamaakhtar-tech/",  
-  devto: "",   // Optional: Developer community profile
+  stackoverflow: "https://stackoverflow.com/users/31249735/m-usama-akhtar/", 
+  medium: "https://medium.com/@musamaakhtar-tech/", 
   display: true // Set false to hide this section
 };
 

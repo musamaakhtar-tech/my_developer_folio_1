@@ -19,7 +19,7 @@ export default function Footer() {
             target="_blank"
             rel="noreferrer"
           >
-            M. Usama Akhtar
+            MUA Tech
           </a>
         </p>
       </div>

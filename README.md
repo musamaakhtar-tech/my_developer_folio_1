@@ -52,7 +52,7 @@ This template includes a wide range of sections to present yourself professional
 ✔️ Live Twitter Feed
 ✔️ Auto-populated GitHub Profile Cards
 
-> 🌐 [View Live Demo](https://developerfolio.js.org)
+> 🌐 [View Live Demo](https://mua-tech.netlify.app/)
 
 You can reorder, enable, or disable any section based on your preference. Every section is encapsulated and responsive by default, ensuring a consistent look across different screen sizes and devices.
 

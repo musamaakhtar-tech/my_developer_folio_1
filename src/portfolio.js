@@ -94,6 +94,18 @@ const skillsSection = {
       fontAwesomeClassname: "fab fa-java"
     },
     {
+      skillName: "Flutter",
+      fontAwesomeClassname: "fab fa-flutter"
+    },
+    {
+      skillName: "Figma",
+      fontAwesomeClassname: "fab fa-figma"
+    },
+    {
+      skillName: "Sketch",
+      fontAwesomeClassname: "fab fa-sketch"
+    },
+    {
       skillName: "AWS",
       fontAwesomeClassname: "fab fa-aws"
     },

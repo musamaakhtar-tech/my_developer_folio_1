@@ -95,7 +95,7 @@ const skillsSection = {
     },
     {
       skillName: "Flutter",
-      fontAwesomeClassname: "fab fa-flutter"
+      fontAwesomeClassname: "fa-brands fa-flutter"
     },
     {
       skillName: "Figma",
@@ -158,8 +158,8 @@ const educationInfo = {
       duration: "October 2020 - October 2024",
       desc: "Specialization in Software Quality and Testing with hands-on experience in software development and UI design.",
       descBullets: [
-        "Completed projects like NexGen-Arcade focused on gaming community needs",
-        "Gained skills in C++, Java, HTML, MySQL, and software testing"
+        "Completed projects like NexGen-Arcade focused on gaming community needs.",
+        "Gained skills in C++, Java, HTML, MySQL, and software testing."
       ]
     },
     {
@@ -169,7 +169,7 @@ const educationInfo = {
       duration: "September 2017 - March 2019",
       desc: "Focused on mathematics, physics, and foundational computing concepts.",
       descBullets: [
-        "Prepared for engineering studies with a strong focus on analytical problem-solving"
+        "Prepared for engineering studies with a strong focus on analytical problem-solving."
       ]
     }
   ]

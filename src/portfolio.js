@@ -39,7 +39,7 @@ const socialMediaLinks = {
   twitter: "https://x.com/tech_mua/", 
   instagram: "https://www.instagram.com/mua.tech/", 
   leetcode: "",  // Optional: Add if you use LeetCode
-  stackoverflow: "", // Optional: Add if you answer questions or showcase work here
+  stackoverflow: "https://stackoverflow.com/users/31249735/m-usama-akhtar", // Optional: Add if you answer questions or showcase work here
   devto: "",   // Optional: Developer community profile
   display: true // Set false to hide this section Instagram, Twitter and Kaggle are also supported in the links! To customize icons and social links, tweak src/components/SocialMedia
 };
@@ -424,7 +424,7 @@ const contactInfo = {
   twitter: "https://x.com/tech_mua/",  
   instagram: "https://www.instagram.com/mua.tech/", 
   leetcode: "",  // Optional: Add if you use LeetCode
-  stackoverflow: "", // Optional: Add if you answer questions or showcase work here
+  stackoverflow: "https://stackoverflow.com/users/31249735/m-usama-akhtar", // Optional: Add if you answer questions or showcase work here
   medium: "https://medium.com/@musamaakhtar-tech/",  
   devto: "",   // Optional: Developer community profile
   display: true // Set false to hide this section
